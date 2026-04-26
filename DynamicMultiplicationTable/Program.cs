@@ -39,6 +39,6 @@ class Program
             }
         }
 
-        Console.WriteLine("\nGoodbye!");
+        Console.WriteLine("\nGoodbye!\nmade by @camijavi");
     }
 }
